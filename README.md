@@ -10,3 +10,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt lectus p
 
 ## Mis notas de lectura:
 - [Mindset](./mindset.md)
+- [read06](./read06.md)
