@@ -1,9 +1,11 @@
 
-## Cómo Funciona la Web
+<img src="https://neubox.com/blog/wp-content/uploads/2024/09/860x436-DESARROLLO-WEB-2-600x436.webp" alt="cómo funciona el internet">
+
+# Cómo Funciona la Web
 
 La web, o World Wide Web, es un sistema global de documentos e información interconectados que se accede a través de Internet. Funciona mediante un conjunto de protocolos y tecnologías que permiten a los usuarios acceder, compartir y publicar información en línea.
 
-### Partes Esenciales
+## Partes Esenciales
 
 1. **Protocolos:** Los protocolos son reglas que definen cómo las computadoras se comunican entre sí. El protocolo principal de la web es el **HTTP (HyperText Transfer Protocol)**, que permite a los navegadores web solicitar y recibir páginas web desde servidores.
 
@@ -19,6 +21,6 @@ La web, o World Wide Web, es un sistema global de documentos e información inte
 
 7. **JavaScript:** JavaScript es un lenguaje de programación que se utiliza para agregar interactividad a las páginas web. El código JavaScript puede controlar el comportamiento de los elementos HTML y realizar acciones en respuesta a eventos del usuario.
 
-### Resumen
+## Resumen
 
 En resumen, la web funciona mediante una interacción entre los protocolos, los servidores, los navegadores y los lenguajes de programación. Los usuarios utilizan navegadores para solicitar páginas web, que son almacenadas en servidores y enviadas al navegador a través del protocolo HTTP. El código HTML define el contenido de la página web, el CSS controla su apariencia y el JavaScript agrega interactividad.

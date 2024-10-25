@@ -43,14 +43,14 @@ I'm always exploring new worlds! From diving into programming and discovering ne
 
 - **101**
 
-  - [Read01](./101/read01.md)
-  - [Read02](./101/read02.md)
-  - [Read03](./101/read03.md)
-  - [Read04](./101/read04.md)
-  - [Read05](./101/read05.md)
-  - [Read06](./101/read06.md)
-  - [Read07](./101/read07.md)
-  - [Read08](./101/read08.md)
+  - [Read 01: Cómo funciona la web](./101/read01.md)
+  - [Read 02: AI in web development](./101/read02.md)
+  - [Read 03: Intro a CSS](./101/read03.md)
+  - [Read 04: IA Generativa](./101/read04.md)
+  - [Read 05: Markdown y Web Publishing](./101/read05.md)
+  - [Read 06: Developer Tools](./101/read06.md)
+  - [Read 07: Control de Versiones](./101/read07.md)
+  - [Read 08: Wireframing](./101/read08.md)
   - [Read09](./101/read09.md)
   - [Read10](./101/read10.md)
   - [Read11](./101/read11.md)

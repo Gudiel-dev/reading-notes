@@ -1,4 +1,4 @@
-<img src="./sino.png" alt="Descripción de la imagen" alt ="destiny image">
+<img src="./assets/sino.png" alt="Descripción de la imagen" alt ="destiny image">
 
 # Clase #7 Git - Github
 
