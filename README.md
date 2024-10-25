@@ -39,9 +39,9 @@ I'm always exploring new worlds! From diving into programming and discovering ne
 
 ## Mis notas de lectura
 
--Tabla de contenido
+## Tabla de contenido
 
-- **101**
+- **Notas de lectura - Code 101”**
 
   - [Read 01: Cómo funciona la web](./101/read01.md)
   - [Read 02: AI in web development](./101/read02.md)
@@ -56,7 +56,7 @@ I'm always exploring new worlds! From diving into programming and discovering ne
   - [Read11](./101/read11.md)
   - 
 
-- **201**
+- **Notas de lectura - Code 201**
 
   - [Read01](./201/read01.md)
   - [Read02](./201/read02.md)
