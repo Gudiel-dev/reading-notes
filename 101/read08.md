@@ -1,15 +1,18 @@
+# READ 08: Wireframes
+
 <img src="https://cink.es/wp-content/uploads/2024/02/Que-es-wireframe.webp.webp" alt="image wireframe">
 
 ## 1. ¿Qué es un wireframe y cuál es su función principal en el proceso de diseño de un sitio web?
-- EL wireframe vendría a ser el esqueleto o estructura de una web. Así mismo, es una forma de representar de manera 
-sencilla cómo se organizará las diferentes secciones de website. 
-Por lo tanto, su función sería la de permitirnos ver el sitio web antes de empezar el proceso de diseño para que se hagan los cambios respectivos de ser necesario y ahorrarnos trabajar ciegamente. 
+
+- EL wireframe vendría a ser el esqueleto o estructura de una web. Así mismo, es una forma de representar de manera
+sencilla cómo se organizará las diferentes secciones de website.
+Por lo tanto, su función sería la de permitirnos ver el sitio web antes de empezar el proceso de diseño para que se hagan los cambios respectivos de ser necesario y ahorrarnos trabajar ciegamente.
 
 ## 2. ¿Cuáles son las diferencias entre los wireframes de baja fidelidad y los de alta fidelidad, y en qué situaciones se recomienda usar cada uno?
+
 - **Wireframes de baja fidelidad:** Suelen ser bocetos sencillos a mano alzada, rápidos hechos a lápiz y papel o con un programa sencillo de maquetación. Carecen de detalles, colores. Sólo formas que nos ayuden a ver una estructura como tal y en el proceso ver qué funciona y qué no sin tener que lidiar con colores, logos, imágenes. etc.
 
-- **Wireframes de alta fidelidad:** Suelen, por lo general ser bocetos o dibujos más detallados, con mayor información y colores. Suele ser usado cuando ya se tiene una idea más clara de lo que se busca, habiéndo pasado primero por un wireframe de baja calidad como base. Dependiendo del tipo, suelen funcionar como prototipos en algunos casos. 
-
+- **Wireframes de alta fidelidad:** Suelen, por lo general ser bocetos o dibujos más detallados, con mayor información y colores. Suele ser usado cuando ya se tiene una idea más clara de lo que se busca, habiéndo pasado primero por un wireframe de baja calidad como base. Dependiendo del tipo, suelen funcionar como prototipos en algunos casos.
 
 ## 3. ¿Por qué es importante realizar una investigación de usuario antes de crear un wireframe, y qué aspectos se deben considerar durante esta investigación?
 

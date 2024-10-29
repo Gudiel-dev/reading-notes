@@ -32,12 +32,7 @@ I'm always exploring new worlds! From diving into programming and discovering ne
 
 - [GitHub](https://github.com/GudielVFX "Mi Github")
 
-## Mis notas de lectura
-
-- [Mindset](./mindset.md)
-- [read06](./read06.md)
-
-## Mis notas de lectura
+# Mis notas de lectura
 
 ## Tabla de contenido
 
@@ -54,7 +49,7 @@ I'm always exploring new worlds! From diving into programming and discovering ne
   - [Read09](./101/read09.md)
   - [Read10](./101/read10.md)
   - [Read11](./101/read11.md)
-  - 
+  - [Mindset](./101/mindset.md)
 
 - **Notas de lectura - Code 201**
 
