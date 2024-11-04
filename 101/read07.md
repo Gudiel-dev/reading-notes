@@ -23,5 +23,3 @@
 ## 4 ¿Cuál es el comando para enviar la captura de los archivos modificados a Github?
 
   El comando usado para enviar la caputra de los archivos modificados es 	`git push` pero necesitamos un commit previamente  `git commit -m "descripción de cambios"` por último el `git push` para que sea publicado
-	
-s
