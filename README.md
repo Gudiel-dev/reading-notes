@@ -45,10 +45,10 @@ I'm always exploring new worlds! From diving into programming and discovering ne
   - [Read 05: Markdown y Web Publishing](./101/read05.md)
   - [Read 06: Developer Tools](./101/read06.md)
   - [Read 07: Control de Versiones](./101/read07.md)
-  - [Read 08: Wireframing](./101/read08.md)
+  - [Read 08: Wireframing](./101/read08.md)alt text
   - [Read 09: READ 09: Introducción a Javascript](./101/read09.md)
-  - [Read10](./101/read10.md)
-  - [Read11](./101/read11.md)
+  - [Read 10](./101/read10.md)
+  - [Read 11: Introducción al DOM y Proyectos](./101/read11.md)
   - [Mindset](./101/mindset.md)
 
 - **Notas de lectura - Code 201**
@@ -73,12 +73,9 @@ I'm always exploring new worlds! From diving into programming and discovering ne
 - **Blog**
   - [Thoughts about 7th class.](./Blog/class07.md)
   
-
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=GudielVFX&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
   <p align="center">
 
