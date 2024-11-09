@@ -45,7 +45,7 @@ I'm always exploring new worlds! From diving into programming and discovering ne
   - [Read 05: Markdown y Web Publishing](./101/read05.md)
   - [Read 06: Developer Tools](./101/read06.md)
   - [Read 07: Control de Versiones](./101/read07.md)
-  - [Read 08: Wireframing](./101/read08.md)alt text
+  - [Read 08: Wireframing](./101/read08.md)
   - [Read 09: READ 09: Introducción a Javascript](./101/read09.md)
   - [Read 10](./101/read10.md)
   - [Read 11: Introducción al DOM y Proyectos](./101/read11.md)
