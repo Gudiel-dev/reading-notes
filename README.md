@@ -72,8 +72,8 @@ I'm always exploring new worlds! From diving into programming and discovering ne
 
 - **Blog**
   - [Thoughts about 7th class.](./Blog/class07.md)
+  - [Notas - R-03](./notas-read04.md)
   
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=GudielVFX&icon=0&color=0)](https://visitcount.itsvg.in)
 

@@ -104,7 +104,7 @@ flex: <flex-grow> <flex-shrink> <flex-basis>;
 
 ## ¿Cuáles son las diferencias entre los formatos de color RGB, RGBA, hexadecimal y HSL en CSS, y en qué situaciones sería más conveniente utilizar cada uno?
 
-# Comparativa de Formatos de Color en CSS
+## Comparativa de Formatos de Color en CSS
 
 | **Formato**   | **Ventaja principal**                                    | **Inconveniente**                                  | **Usos típicos**                            |
 |---------------|----------------------------------------------------------|---------------------------------------------------|---------------------------------------------|
@@ -116,8 +116,6 @@ flex: <flex-grow> <flex-shrink> <flex-basis>;
 
 
 
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
-
