@@ -55,7 +55,7 @@ I'm always exploring new worlds! From diving into programming and discovering ne
 
   - [Read 01: Introducción a la Web Moderna](./201/Read01.md)
   - [Read 02: HTML5 y CSS](./201/Read02.md)
-  - [Read03](./201/read03.md)
+  - [Read 03: CSS Layout](./201/read03.md)
   - [Read04](./201/read04.md)
   - [Read05](./201/read05.md)
   - [Read06](./201/read06.md)
